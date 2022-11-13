@@ -104,7 +104,8 @@ Online courses on [hexlet.io](https://hexlet.io) _(July 2022 - August 2022)_:
   - [Object-oriented Programming in JavaScript](https://ru.hexlet.io/programs/js-oop)
   - [Web development with React](https://ru.hexlet.io/programs/js-react-developer)
 
-DevOps workshop at [hexlet.io](https://hexlet.io) get knowledge and practise of Ansible, Terraform, 12 Factors. _(February 2019)_
+DevOps workshop at [hexlet.io](https://hexlet.io)
+got knowledge and practise of DevOps with Ansible, Terraform, 12 Factors. _(February 2019)_
 
 Bachelor of Applied Mathematics and Computer Science
 [Kazan (Volga region) Federal University Institute of Computational Mathematics and Information Technologies](https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-computer-mathematics-and-information) - Kazan, Russian Federation _(2013 - 2017)_
