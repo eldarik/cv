@@ -1,8 +1,18 @@
 # Eldar Iskhakov
 
-Software engineer
+**Software engineer**
 
 [Email](mailto:iskhakov.e11@gmail.com) / [LinkedIn](https://www.linkedin.com/in/eldar-iskhakov-543374111/) / [GitHub](https://github.com/eldarik/) /
+
+## Skills
+**Client-Side**
+HTML CSS JavaScript React Redux Bootstrap JQuery
+
+**Server-Side**
+Ruby Ruby on Rails NodeJS Express Elixir Phoenix PostgreSQL Redis MongoDB RabbitMQ
+
+**Development & Operations**
+Ansible Docker Terraform GIT RSpec MiniTest
 
 ## 👨‍💻 Engineering Experience
 
