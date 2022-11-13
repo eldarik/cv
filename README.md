@@ -33,7 +33,7 @@ Foxford is online education platform which helps russian speaking pupil study th
 **Technologies used:** Ruby 2.7, Ruby on Rails 6.1, PostgreSQL, Redis, Sidekiq, Capistrano, React
 <br><br>
 
-**Backend Engineer** @ [Moteefe](https://moteefe.com) _(June 2018 - February 2020)
+**Backend Engineer** @ [Moteefe](https://moteefe.com) _(June 2018 - February 2020)_
 
 moteefe.com is a service for launching merchandise campaigns with its own design, online stores for sale.
 
