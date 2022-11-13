@@ -4,7 +4,7 @@ Software engineer
 
 [Email](mailto:iskhakov.e11@gmail.com) / [LinkedIn](https://www.linkedin.com/in/eldar-iskhakov-543374111/) / [GitHub](https://github.com/eldarik/) /
 
-## 👨‍💻Engineering Experience
+## 👨‍💻 Engineering Experience
 
 **Backend Developer** @ [Petfolk](https://petfolk.com) _(July 2021 - Present)_
 
@@ -59,17 +59,18 @@ Solved issues with implementation of full text search with PostgreSQL extension,
 Development and design of rest api, integration with the Stripe payment system. Moving from monolithic rails app to app with React components and restful api backend with Ruby on Rails.
 
 3. [crossclear](http://www.crossclear.com/) service for finding and buying rights on music. Development and maintenance of several backend services:
-- service that provides full-text search in the database of compositions, writers.
-- service for creating queries to replenish the base of musical works
-- service for editing custom lists of musical works.
-- music database management service.
-- data delivery service in Elasticsearch.
+  - service that provides full-text search in the database of compositions, writers.
+  - service for creating queries to replenish the base of musical works
+  - service for editing custom lists of musical works.
+  - music database management service.
+  - data delivery service in Elasticsearch.
+
 I've got experience of designing and optimising data storage in Elasticsearch, searching, data access.
 
 **Technologies used:** Docker, ElasticSearch, RabbitMQ, NodeJS, Ruby, Ruby on Rails, Redis, Heroku, PostgreSQL.
 <br><br>
 
-**Backend Developer** @ [headmade.pro](https://headmade.pro)
+**Backend Developer** @ [headmade.pro](https://headmade.pro) _(March 2015 - April 2016)_
 
 headmade.pro is a webstudio. Took part in different projects. Worked on tasks with rest api end points implementation for mobile apps, feature with frontend and backend tasks. Got knowledge about databases, web frameworks, etc.
 
@@ -79,3 +80,14 @@ Projects:
 - [docs.kzn.ru](https://docs.kzn.ru) - site for publishing city's government documents.
 
 **Technologies used:** Vagrant, Ruby, Ruby on Rails, Redis, PostgreSQL.
+<br><br>
+
+## 📚 Education
+Online courses on [hexlet.io](https://hexlet.io) _(July 2022 - August 2022)_:
+  - [Object-oriented Programming in JavaScript](https://ru.hexlet.io/programs/js-oop)
+  - [Web development with React](https://ru.hexlet.io/programs/js-react-developer)
+
+DevOps workshop at [hexlet.io](https://hexlet.io) get knowledge and practise of Ansible, Terraform, 12 Factors. _(February 2019)_
+
+Bachelor of Applied Mathematics and Computer Science
+[Kazan (Volga region) Federal University Institute of Computational Mathematics and Information Technologies](https://kpfu.ru/eng/academic-units/physics-mathematics-and-it/institute-of-computer-mathematics-and-information) - Kazan, Russian Federation _(2013 - 2017)_
