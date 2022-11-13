@@ -18,6 +18,7 @@ Petfolk is a veterinary  for pets and their parents bringing world class pet car
 - Developed GraphQL API for web and iOS applications.
 
 **Technologies used:** Ruby 3.0.4, Ruby on Rails. 6.1.*, GraphQL, Redis, PostgreSQL 14, Heroku, TypeScript, Apollo, React.
+<br><br>
 
 **Backend Developer** @ [Foxford](https://foxford.ru) _(March 2020 - June 2021)_ 
 
@@ -30,6 +31,7 @@ Foxford is online education platform which helps russian speaking pupil study th
  - worked on exam rehearsals. This feature gave pupil feedback with their level, knowledge gaps and course recommendations, it could help them to be better prepared for real exams
 
 **Technologies used:** Ruby 2.7, Ruby on Rails 6.1, PostgreSQL, Redis, Sidekiq, Capistrano, React
+<br><br>
 
 **Backend Engineer** @ [Moteefe](https://moteefe.com) _(June 2018 - February 2020)
 
@@ -43,6 +45,7 @@ moteefe.com is a service for launching merchandise campaigns with its own design
 - Refactored existing code base with print images, later it helped us to add new products from other suppliers
 
 **Technologies used:** Ruby, Ruby on Rails, elasticsearch, cloudinary, postgresql, redis, react, redux, heroku.
+<br><br>
 
 **Backend Developer** @ [wearevolt.com](https://wearevolt.com) _(May 2016 - June 2018)
 We Are Volt is a team of software engineers, designers, analytics which helps startups to build better solutions.
@@ -64,6 +67,7 @@ Development and design of rest api, integration with the Stripe payment system. 
 I've got experience of designing and optimising data storage in Elasticsearch, searching, data access.
 
 **Technologies used:** Docker, ElasticSearch, RabbitMQ, NodeJS, Ruby, Ruby on Rails, Redis, Heroku, PostgreSQL.
+<br><br>
 
 **Backend Developer** @ [headmade.pro](https://headmade.pro)
 
