@@ -57,7 +57,7 @@ moteefe.com is a service for launching merchandise campaigns with its own design
 **Technologies used:** Ruby, Ruby on Rails, elasticsearch, cloudinary, postgresql, redis, react, redux, heroku.
 <br><br>
 
-**Backend Developer** @ [wearevolt.com](https://wearevolt.com) _(May 2016 - June 2018)
+**Backend Developer** @ [wearevolt.com](https://wearevolt.com) _(May 2016 - June 2018)_
 We Are Volt is a team of software engineers, designers, analytics which helps startups to build better solutions.
 
 Took part in different projects as a ruby developer.
