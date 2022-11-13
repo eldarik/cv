@@ -6,13 +6,13 @@
 
 ## Skills
 **Client-Side**
-HTML CSS JavaScript React Redux Bootstrap JQuery
+HTML, CSS, JavaScript, React, Redux, Bootstrap, JQuery
 
 **Server-Side**
-Ruby Ruby on Rails NodeJS Express Elixir Phoenix PostgreSQL Redis MongoDB RabbitMQ
+Ruby, Ruby on Rails, NodeJS, Express, Elixir, Phoenix, PostgreSQL, Redis, MongoDB, RabbitMQ
 
 **Development & Operations**
-Ansible Docker Terraform GIT RSpec MiniTest
+Ansible, Docker, Terraform, GIT, RSpec, MiniTest
 
 ## 👨‍💻 Engineering Experience
 
