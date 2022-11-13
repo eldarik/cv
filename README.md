@@ -82,6 +82,12 @@ Projects:
 **Technologies used:** Vagrant, Ruby, Ruby on Rails, Redis, PostgreSQL.
 <br><br>
 
+## 💬 Languages
+
+🇬🇧**English**: C1 <br>
+🇷🇺**Russian**: Native
+<br><br>
+
 ## 📚 Education
 Online courses on [hexlet.io](https://hexlet.io) _(July 2022 - August 2022)_:
   - [Object-oriented Programming in JavaScript](https://ru.hexlet.io/programs/js-oop)
