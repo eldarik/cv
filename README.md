@@ -18,7 +18,7 @@ Ansible, Docker, Terraform, GIT, RSpec, MiniTest
 
 **Backend Developer** @ [Petfolk](https://petfolk.com) _(July 2021 - Present)_
 
-Petfolk is a veterinary  for pets and their parents bringing world class pet care services.
+Petfolk is a veterinary  for pets and their parents which bringing world class pet care services.
 
 **Tasks, responsibilities, achievements**:
 - Developed back office and management system for pet care centers. It includes all user interaction logic: appointment booking, center visiting, pet examination, and treatment plans. Mirrored functional was available for vets and managers so they could fully cover the user's pet, user, vets and manager's needs.
@@ -30,7 +30,7 @@ Petfolk is a veterinary  for pets and their parents bringing world class pet car
 **Technologies used:** Ruby 3.0.4, Ruby on Rails. 6.1.*, GraphQL, Redis, PostgreSQL 14, Heroku, TypeScript, Apollo, React.
 <br><br>
 
-**Backend Developer** @ [Foxford](https://foxford.ru) _(March 2020 - June 2021)_ 
+**Backend Developer** @ [Foxford](https://foxford.ru) _(March 2020 - June 2021)_
 
 Foxford is online education platform which helps russian speaking pupil study their school subjects and learn something new, participate in olympiads.
 
