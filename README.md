@@ -12,7 +12,7 @@ HTML, CSS, JavaScript, React, Redux, Bootstrap, JQuery
 Ruby, Ruby on Rails, NodeJS, Express, Elixir, Phoenix, PostgreSQL, Redis, MongoDB, RabbitMQ
 
 **Development & Operations**
-Ansible, Docker, Terraform, GIT, RSpec, MiniTest
+Ansible, Docker, Terraform, GIT, RSpec, MiniTest, Github, Gitlab, Nginx
 
 ## 👨‍💻 Engineering Experience
 
